@@ -1,0 +1,7 @@
+torch
+transformers
+spacy
+scikit-learn
+python-dotenv
+gradio
+pypdf2
